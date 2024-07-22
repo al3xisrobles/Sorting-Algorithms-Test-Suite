@@ -1,4 +1,4 @@
-# SortingAlgos
+# Sortin Algorithm Test Suite
 
 A testing suite and (completed) implementation template for the most common sorting algorithms. These include:
 
