@@ -35,7 +35,7 @@ Run the testing suite (excludes quickselect)
 python3 test.py
 ```
 
-If you want to test quickselect, run that separate testing suite with
+If you want to test quickselect, run that separate test case with
 ```
 python3 quick_select.py
 ```
