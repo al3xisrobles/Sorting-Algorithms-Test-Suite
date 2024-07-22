@@ -32,6 +32,11 @@ Activate the environment
 source venv/bin/activate
 ```
 
+Install dependencies (only 1)
+```
+pip install -r requirements.txt
+```
+
 Run the testing suite (excludes quickselect)
 ```
 python3 test.py
