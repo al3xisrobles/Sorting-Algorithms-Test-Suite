@@ -13,6 +13,8 @@ A testing suite and (completed) implementation template for the most common sort
 9. Counting Sort
 10. Bitmap Sort
 
+Also includes Quick Select, a selection algorithm similar to quicksort.
+
 ### Steps to run:
 
 Clone this directory:
